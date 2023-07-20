@@ -19,11 +19,12 @@ Health Metrics Tracking -
 
 Todo for the Todo
 ### General
-- [x] set up project and dependencies
+- [x] Setup project and dependencies
 - [x] connected expressjs
 - [x] connected postgresql
 - [x] create foudational frontend
 - [ ] Figma design of project
+- [ ] Setup Deployment Pipline
 ### Header
 - [ ] Header that provides Title of App, Current Date, and Daily Completion Percentage
 - [ ] Header has a rotaion of random peaceful pictures that change upon each app load
