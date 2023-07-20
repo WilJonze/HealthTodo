@@ -24,6 +24,9 @@ Todo for the Todo
 - [x] connected postgresql
 - [x] create foudational frontend
 - [ ] Figma design of project
+### Header
+- [ ] Header that provides Title of App, Current Date, and Daily Completion Percentage
+- [ ] Header has a rotaion of random peaceful pictures that change upon each app load
 ### Todo
 - [ ] Create 'Add' Button that creates that allows user to search/add perscription information that saves into an accordion
 - [ ] Perscription infomation that is input by user is stored in Database
